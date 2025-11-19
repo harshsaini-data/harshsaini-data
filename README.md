@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Photo with Glow -->
-<img src="https://positive-gray-hi9kxoivjr.edgeone.app/grgrgrgr.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" alt="Harsh Saini" />
+<img src="https://ibb.co/mCHzHwnQ" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" alt="Harsh Saini" />
 
 <h1>Harsh Saini</h1>
 
