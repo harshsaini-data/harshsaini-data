@@ -1,7 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Saini;AI-Driven+Data+Analyst+%F0%9F%94%A5;Python+%E2%9A%A1+SQL+%E2%9A%A1+Power+BI+%E2%9A%A1+Excel;Ex-SEO+Specialist+%E2%86%92+Now+Data+Analytics+%26+ML;Transforming+Data+into+Business+Growth+%F0%9F%93%88;Open+to+Data+Analyst+%7C+Jr.+Data+Scientist+Roles" alt="Harsh Saini - Typing Animation" />
+<!-- Profile Photo with Glow -->
+<img src="https://positive-gray-hi9kxoivjr.edgeone.app/grgrgrgr.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" alt="Harsh Saini" />
 
+<h1>Harsh Saini</h1>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Saini;AI-Driven+Data+Analyst+%F0%9F%94%A5;Python+%E2%9A%A1+SQL+%E2%9A%A1+Power+BI+%E2%9A%A1+Excel;Ex-SEO+Specialist+%E2%86%92+Now+Data+Analytics+%26+ML;Transforming+Data+into+Business+Growth+%F0%9F%93%88;Open+to+Data+Analyst+%7C+Jr.+Data+Scientist+Roles" alt="Harsh Saini - Typing Animation" />
+<p><em>Skilled in Python, SQL, Excel & Power BI | Transforming Data into Actionable Insights | Pursuing Advanced Certificate in Data Science with AI & ML (upGrad)</em></p>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=harshsaini-data&label=Profile+Views&color=00bfff&style=for-the-badge" />
