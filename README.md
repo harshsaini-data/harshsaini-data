@@ -33,8 +33,7 @@
 ## 🐍 Programming Languages  
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python" height="50" />
-<img src="https://skillicons.dev/icons?i=cpp" height="50" />
-<img src="https://skillicons.dev/icons?i=js" height="50" />
+
 </div>
 
 ---
@@ -43,7 +42,8 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000" />
-
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
 
 </div>
 
