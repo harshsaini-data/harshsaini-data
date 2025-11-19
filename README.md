@@ -43,8 +43,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+
 
 </div>
 
@@ -84,15 +83,6 @@
 
 </div>
 
----
-
-## 🛠 Dev Tools / Cloud / Deployment  
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode" height="50" />
-<img src="https://skillicons.dev/icons?i=docker" height="50" />
-<img src="https://skillicons.dev/icons?i=aws" height="50" />
-<img src="https://skillicons.dev/icons?i=cloudflare" height="50" />
 <br>
 
 ## 🏢 Work Experience
